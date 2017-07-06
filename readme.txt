@@ -5,3 +5,4 @@ Git tracks changes.
 Git add .gitignore
 GIT will be pushed to origin 
 Git dev branch test creating a new branch is quick
+git test CONFLICT 
