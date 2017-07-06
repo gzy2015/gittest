@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git add .gitignore
 GIT will be pushed to origin 
-Git dev branch test creating a new branch is quick & simple
+Git dev branch test creating a new branch is quick and simple
+
